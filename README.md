@@ -201,6 +201,18 @@ This project uses the **Ames Housing Dataset** from the Kaggle competition:
 
 ---
 
+### Dashboard Images
+![Dashboard Image](outputs/dashboard1.png)
+
+![Dashboard Image](outputs/dashboard2.png)
+
+![Dashboard Image](outputs/dashboard3.png)
+
+![Dashboard Image](outputs/dashboard5.png)
+
+---
+
+
 ## 🙋 Author
 
 **Rakshitha A S**
