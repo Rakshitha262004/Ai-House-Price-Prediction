@@ -224,8 +224,4 @@ This project uses the **Ames Housing Dataset** from the Kaggle competition:
 
 This project is for educational and portfolio purposes.
 Feel free to fork, modify, and build upon it.
-```
 
----
-
-*Built with Python · scikit-learn · XGBoost · Streamlit*
